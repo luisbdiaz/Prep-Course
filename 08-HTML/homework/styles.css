@@ -1,0 +1,32 @@
+ body {
+     display: flex;
+     flex-direction: column;
+ }
+
+ #thirdDiv {
+     height: 600px;
+     background-color: gray;
+     padding: 50px;
+     border: 2px red dashed;
+ }
+
+ .divClass {
+
+ }
+
+ #spanId {
+     font-size: 50px;
+ }
+
+ h1 {
+     color: blue;
+ }
+
+ img {
+     width: 400px;
+ }
+
+ li {
+    list-style: none;
+ }
+

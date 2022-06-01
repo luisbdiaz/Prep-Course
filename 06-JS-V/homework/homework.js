@@ -57,8 +57,8 @@ function agregarStringInvertida() {
     }
 
     detalle() {
-      var objeto =  new Persona(this.nombre, this.apellido, this.edad, this.domicilio);
       return objeto;
+      var objeto =  new Persona(this.nombre, this.apellido, this.edad, this.domicilio);
     }
 }
 
